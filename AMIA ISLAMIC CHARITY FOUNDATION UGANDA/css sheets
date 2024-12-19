@@ -1,0 +1,76 @@
+<!doctype html>
+<html>
+<style>
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+background-color: #06c4f3;
+}
+
+
+.header {
+        background-color: #ffffff;
+        color: #d11a1a;
+        padding: 20px;
+        text-align: center;
+    }
+    
+    .healthcare-initiatives {
+        max-width: 800px;
+        margin: 40px auto;
+        padding: 20px;
+        background-color: #fff;
+        border: 1px solid #ddd;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    
+    .healthcare-initiatives-header {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    
+    .healthcare-initiatives-header h1 {
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+    
+    .healthcare-initiatives-header p {
+        font-size: 18px;
+        color: #ce2525;
+    }
+    
+    .healthcare-initiatives-content {
+        margin-bottom: 20px;
+    }
+    
+    .healthcare-initiatives-content h2 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+    
+    .healthcare-initiatives-content p {
+        font-size: 16px;
+        color: #e27070;
+    }
+    
+    .healthcare-initiatives-content ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+    
+    .healthcare-initiatives-content li {
+        margin-bottom: 10px;
+    }
+    
+    .healthcare-initiatives-content a {
+        text-decoration: none;
+        color: #1082e6;
+    }
+    
+    .healthcare-initiatives-content a:hover {
+        color: #23527c;
+    }
+</style>
+</html>
